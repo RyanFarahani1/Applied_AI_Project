@@ -1,1 +1,1 @@
-#Image captioning for visual impaired project
+# Image captioning for visual impaired project
