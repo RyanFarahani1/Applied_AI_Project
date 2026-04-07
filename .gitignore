@@ -1,0 +1,25 @@
+### Python / ML artifacts (if you add training code later)
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+### OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+### Training outputs
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.pkl
+*.joblib
+wandb/
+mlruns/
+logs/
+
